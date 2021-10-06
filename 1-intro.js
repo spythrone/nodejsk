@@ -1,4 +1,4 @@
-
+const nu = 1
 const num = 14
 
 if(num < 12){
