@@ -1,4 +1,3 @@
-
 const nu = 1000
 const num = 14
 
